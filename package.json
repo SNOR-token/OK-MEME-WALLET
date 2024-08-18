@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "asyncio": "^0.0.2",
+    "axiom": "^0.1.6",
+    "base58": "^2.0.1",
+    "crypto": "^1.0.1",
+    "json": "^11.0.0",
+    "requests": "^0.3.0",
+    "solana": "^1.0.7-development",
+    "tkinter": "^0.0.2-security",
+    "yarn": "^1.22.22"
+  }
+}
